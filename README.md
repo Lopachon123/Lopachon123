@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, yo soy Azorin Agustin Ezequiel Barrenechea, alumno de 4°1 avionica comision A, Impa.
 
 <!--
 **Lopachon123/Lopachon123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
